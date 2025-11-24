@@ -1,0 +1,8 @@
+{
+  "name": "digital_manuscript_org_final",
+  "description": "A digital sanctuary for ancient manuscripts, leveraging AI to organize, preserve, and analyze historical documents.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
